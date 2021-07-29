@@ -1,6 +1,6 @@
 # Лев Ярусов
 
-Начинающий frontend-разработчик. Вот технологии, с которыми я взаимодействовал:
+Фронтенд и кое-что ещё
 
 
 [![Website](https://img.shields.io/badge/-HTML-e34f26.svg?&style=for-the-badge&logo=html5&logoColor=fff)](https://www.w3schools.com/html/)
