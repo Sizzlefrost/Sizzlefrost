@@ -1,6 +1,6 @@
-# Лев Ярусов
+# Lev Yarusov
 
-Фронтенд и кое-что ещё
+Frontend and more
 
 
 [![Website](https://img.shields.io/badge/-HTML-e34f26.svg?&style=for-the-badge&logo=html5&logoColor=fff)](https://www.w3schools.com/html/)
